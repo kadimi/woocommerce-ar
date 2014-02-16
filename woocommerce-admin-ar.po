@@ -2183,7 +2183,7 @@ msgid ""
 "Check this box if the coupon should not apply to items on sale. Per-item "
 "coupons will only work if the item is not on sale. Per-cart coupons will "
 "only work if there are no sale items in the cart."
-msgstr "فعل هذا الخيار لمنع تفعيل القسيمة إذا وجد عرض على المنتج. في قسائم المنتجات تمنع القسيمة إذا كان المنتج عليه عرض. وفي قسائم العربات تمنع القسيمة إذا وجد منتج عليه عرض."
+msgstr "فعل هذا الخيار لمنع تفعيل القسيمة إذا وجد عرض على المنتج. في قسائم المنتجات تمنع القسيمة إذا كان المنتج عليه عرض. وفي قسائم السلات تمنع القسيمة إذا وجد منتج عليه عرض."
 
 #: includes/admin/post-types/meta-boxes/class-wc-meta-box-coupon-data.php:98
 #: includes/admin/post-types/meta-boxes/class-wc-meta-box-order-items.php:95
@@ -2211,7 +2211,7 @@ msgstr "أبحث عن منتج..."
 msgid ""
 "Products which must not be in the cart to use this coupon or, for \"Product "
 "Discounts\", which products are not discounted."
-msgstr "المنتجات الذي لا يجب أن توجد في العربة ليعمل الخصم، أو المنتجات التي لا تخصم بقسيمة المنتجات."
+msgstr "المنتجات الذي لا يجب أن توجد في السلة ليعمل الخصم، أو المنتجات التي لا تخصم بقسيمة المنتجات."
 
 #: includes/admin/post-types/meta-boxes/class-wc-meta-box-coupon-data.php:137
 msgid "Product categories"
@@ -2225,7 +2225,7 @@ msgstr "أي تصنيف"
 msgid ""
 "A product must be in this category for the coupon to remain valid or, for "
 "\"Product Discounts\", products in these categories will be discounted."
-msgstr "المنتجات في العربة يجب أن تكون من هذه التصنيفات، أو قسيمة المنتجات تخصم جميع منتجات هذه التصنيفات."
+msgstr "المنتجات في السلة يجب أن تكون من هذه التصنيفات، أو قسيمة المنتجات تخصم جميع منتجات هذه التصنيفات."
 
 #: includes/admin/post-types/meta-boxes/class-wc-meta-box-coupon-data.php:152
 msgid "Exclude categories"
@@ -2239,7 +2239,7 @@ msgstr "لا تصنيفات"
 msgid ""
 "Product must not be in this category for the coupon to remain valid or, for "
 "\"Product Discounts\", products in these categories will not be discounted."
-msgstr "المنتجات في العربة يجب أن <b>ﻻ</b> تكون من هذه التصنيفات، أو قسيمة المنتجات <b>ﻻ</b> تخصم من منتجات هذه التصنيفات."
+msgstr "المنتجات في السلة يجب أن <b>ﻻ</b> تكون من هذه التصنيفات، أو قسيمة المنتجات <b>ﻻ</b> تخصم من منتجات هذه التصنيفات."
 
 #: includes/admin/post-types/meta-boxes/class-wc-meta-box-coupon-data.php:168
 msgid "Email restrictions"
@@ -3008,7 +3008,7 @@ msgstr "ترتيب المنتج"
 
 #: includes/admin/post-types/meta-boxes/class-wc-meta-box-product-data.php:684
 msgid "Custom ordering position."
-msgstr "الترتيب المخصص للعناصر (في العربة)"
+msgstr "الترتيب المخصص للعناصر (في السلة)"
 
 #: includes/admin/post-types/meta-boxes/class-wc-meta-box-product-data.php:692
 msgid "Enable reviews"
@@ -3849,7 +3849,7 @@ msgstr "تمكين القسائم"
 
 #: includes/admin/settings/class-wc-settings-checkout.php:73
 msgid "Coupons can be applied from the cart and checkout pages."
-msgstr "القسائم تستخدم في العربة وصفحة المحاسبة"
+msgstr "القسائم تستخدم في السلة وصفحة المحاسبة"
 
 #: includes/admin/settings/class-wc-settings-checkout.php:78
 #: includes/admin/views/html-admin-page-status-report.php:297
@@ -3889,7 +3889,7 @@ msgstr ""
 
 #: includes/admin/settings/class-wc-settings-checkout.php:112
 msgid "Cart Page"
-msgstr "عربة التسوق"
+msgstr "سلة التسوق"
 
 #: includes/admin/settings/class-wc-settings-checkout.php:123
 msgid "Checkout Page"
@@ -4433,15 +4433,15 @@ msgstr "الترتيب وفق السعر (تنازلي)"
 
 #: includes/admin/settings/class-wc-settings-products.php:265
 msgid "Add to cart"
-msgstr "إضافة للعربة"
+msgstr "إضافة للسلة"
 
 #: includes/admin/settings/class-wc-settings-products.php:266
 msgid "Redirect to the cart page after successful addition"
-msgstr "تحويل المستخدم لصفحة العربة بعد الإضافة بنجاح."
+msgstr "تحويل المستخدم لصفحة السلة بعد الإضافة بنجاح."
 
 #: includes/admin/settings/class-wc-settings-products.php:274
 msgid "Enable AJAX add to cart buttons on archives"
-msgstr "تمكين AJAX لزر إضافة للعربة."
+msgstr "تمكين AJAX لزر إضافة للسلة."
 
 #: includes/admin/settings/class-wc-settings-products.php:286
 msgid "Weight Unit"
@@ -4613,7 +4613,7 @@ msgstr "تمكين الشحن"
 
 #: includes/admin/settings/class-wc-settings-shipping.php:79
 msgid "Enable the shipping calculator on the cart page"
-msgstr "تمكين حساب تكلفة الشحن في صفحة العربة"
+msgstr "تمكين حساب تكلفة الشحن في صفحة السلة"
 
 #: includes/admin/settings/class-wc-settings-shipping.php:88
 msgid "Hide shipping costs until an address is entered"
@@ -4821,7 +4821,7 @@ msgstr ""
 
 #: includes/admin/settings/class-wc-settings-tax.php:163
 msgid "Display prices during cart/checkout:"
-msgstr "عرض الأسعار في العربة \\ المحاسبة"
+msgstr "عرض الأسعار في السلة \\ المحاسبة"
 
 #: includes/admin/settings/class-wc-settings-tax.php:175
 msgid "Display tax totals:"
@@ -5192,7 +5192,7 @@ msgstr "السوق"
 
 #: includes/admin/views/html-admin-page-status-report.php:293
 msgid "Cart"
-msgstr "العربة"
+msgstr "السلة"
 
 #: includes/admin/views/html-admin-page-status-report.php:301
 msgid "My Account"

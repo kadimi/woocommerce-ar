@@ -22,7 +22,7 @@ msgstr "أضف أختصار"
 
 #: assets/js/admin/editor_plugin_lang.php:6
 msgid "Product price/cart button"
-msgstr "سعر المنتج \\ زر العربة"
+msgstr "سعر المنتج \\ زر السلة"
 
 #: assets/js/admin/editor_plugin_lang.php:7
 msgid "Product by SKU/ID"
@@ -3061,7 +3061,7 @@ msgstr "رمز البطاقة"
 #: includes/class-wc-product-simple.php:48
 #: includes/class-wc-product-variation.php:211
 msgid "Add to cart"
-msgstr "إضافة للعربة"
+msgstr "إضافة للسلة"
 
 #: includes/abstracts/abstract-wc-product.php:466
 msgid "Read more"
@@ -3381,7 +3381,7 @@ msgstr ""
 
 #: includes/class-wc-cart.php:358
 msgid "An item which is no longer available was removed from your cart."
-msgstr "تم حذف منتوج لم يبقى متوفر من عربتك. "
+msgstr "تم حذف منتوج لم يبقى متوفر من سلتك. "
 
 #: includes/class-wc-cart.php:392 includes/class-wc-cart.php:411
 #: includes/class-wc-cart.php:420
@@ -3389,20 +3389,20 @@ msgid ""
 "Sorry, we do not have enough \"%s\" in stock to fulfill your order (%s in "
 "stock). Please edit your cart and try again. We apologise for any "
 "inconvenience caused."
-msgstr "نأسف، ليس لدينا ما يكفي من \"%s\" في المخزن، تبقى (%s فقط). رجاء عدل عربتك وحاول مجددا. ونأسف مجددا على أي إزعاج."
+msgstr "نأسف، ليس لدينا ما يكفي من \"%s\" في المخزن، تبقى (%s فقط). رجاء عدل سلتك وحاول مجددا. ونأسف مجددا على أي إزعاج."
 
 #: includes/class-wc-cart.php:455
 msgid ""
 "Sorry, we do not have enough \"%s\" in stock to fulfill your order right "
 "now. Please try again in %d minutes or edit your cart and try again. We "
 "apologise for any inconvenience caused."
-msgstr "المعذرة، لا نملك \"%s\" بكمية كافية الآن لتلبية طلبك. الرجاء إعادة المحاولة بعد %d دقيقة أو غير محتوى عربتك. نتأسف مجددا عن الإزعاج."
+msgstr "المعذرة، لا نملك \"%s\" بكمية كافية الآن لتلبية طلبك. الرجاء إعادة المحاولة بعد %d دقيقة أو غير محتوى سلتك. نتأسف مجددا عن الإزعاج."
 
 #: includes/class-wc-cart.php:465
 msgid ""
 "Sorry, \"%s\" is not in stock. Please edit your cart and try again. We "
 "apologise for any inconvenience caused."
-msgstr "نأسف، ليس لدينا ما يكفي من \"%s\" في المخزن. رجاء عدل عربتك وحاول مجددا. ونأسف مجددا على أي إزعاج."
+msgstr "نأسف، ليس لدينا ما يكفي من \"%s\" في المخزن. رجاء عدل سلتك وحاول مجددا. ونأسف مجددا على أي إزعاج."
 
 #: includes/class-wc-cart.php:787
 msgid "Sorry, &quot;%s&quot; cannot be purchased."
@@ -3412,23 +3412,23 @@ msgstr "نأسف،  لكن &quot;%s&quot; لا يمكن بيعه."
 msgid ""
 "You cannot add &quot;%s&quot; to the cart because the product is out of "
 "stock."
-msgstr "لا يمكن إضافة &quot;%s&quot; إلى عربتك لأنه نفد."
+msgstr "لا يمكن إضافة &quot;%s&quot; إلى سلتك لأنه نفد."
 
 #: includes/class-wc-cart.php:799
 msgid ""
 "You cannot add that amount of &quot;%s&quot; to the cart because there is "
 "not enough stock (%s remaining)."
-msgstr "لا يمكن إضافة &quot;%s&quot; إلى عربتك لأن الكمية المتبقية أقل (بقي %s فقط)."
+msgstr "لا يمكن إضافة &quot;%s&quot; إلى سلتك لأن الكمية المتبقية أقل (بقي %s فقط)."
 
 #: includes/class-wc-cart.php:813 includes/class-wc-cart.php:832
 #: includes/class-wc-cart.php:845 includes/class-wc-frontend-scripts.php:151
 #: includes/wc-cart-functions.php:98 templates/cart/mini-cart.php:64
 msgid "View Cart"
-msgstr "شاهد محتوى العربة"
+msgstr "شاهد محتوى السلة"
 
 #: includes/class-wc-cart.php:814
 msgid "You cannot add another &quot;%s&quot; to your cart."
-msgstr "لا يمكنك إضافة &quot;%s&quot; آخر إلى عربتك."
+msgstr "لا يمكنك إضافة &quot;%s&quot; آخر إلى سلتك."
 
 #: includes/class-wc-cart.php:833 includes/class-wc-cart.php:846
 msgid ""
@@ -4839,7 +4839,7 @@ msgstr ""
 #: includes/class-wc-form-handler.php:367
 #: includes/class-wc-form-handler.php:420
 msgid "Cart updated."
-msgstr "تحديث العربة"
+msgstr "تحديث السلة"
 
 #: includes/class-wc-form-handler.php:402
 msgid "You can only have 1 %s in your cart."
@@ -4847,7 +4847,7 @@ msgstr "يمكنك أن تضع %s واحد فقط في عربك."
 
 #: includes/class-wc-form-handler.php:488
 msgid "The cart has been filled with the items from your previous order."
-msgstr "عربتك تحوي عناصر طلب سابق."
+msgstr "سلتك تحوي عناصر طلب سابق."
 
 #: includes/class-wc-form-handler.php:509
 msgid "Order cancelled by customer."
@@ -4871,11 +4871,11 @@ msgstr "رجاء حدد نوع المنتج&hellip; "
 #: includes/class-wc-form-handler.php:651
 msgid ""
 "Please choose the quantity of items you wish to add to your cart&hellip;"
-msgstr "رجاء حدد الكمية التي تريد إضافتها لعربتك&hellip;"
+msgstr "رجاء حدد الكمية التي تريد إضافتها لسلتك&hellip;"
 
 #: includes/class-wc-form-handler.php:658
 msgid "Please choose a product to add to your cart&hellip;"
-msgstr "رجاء حدد منتج لتضيفه لعربتك&hellip;"
+msgstr "رجاء حدد منتج لتضيفه لسلتك&hellip;"
 
 #: includes/class-wc-form-handler.php:718
 #: includes/class-wc-form-handler.php:722
@@ -4958,13 +4958,13 @@ msgstr "محل تجاري"
 #: includes/class-wc-install.php:222
 msgctxt "page_slug"
 msgid "cart"
-msgstr "عربة"
+msgstr "سلة"
 
 #: includes/class-wc-install.php:223
 #: includes/widgets/class-wc-widget-cart.php:29
 #: includes/widgets/class-wc-widget-cart.php:56
 msgid "Cart"
-msgstr "العربة"
+msgstr "السلة"
 
 #: includes/class-wc-install.php:227
 msgctxt "page_slug"
@@ -5003,7 +5003,7 @@ msgstr "&nbsp;<small>%sلوسيلة الشحن \"%s\"</small>"
 
 #: includes/class-wc-order.php:896
 msgid "Cart Subtotal:"
-msgstr "سعر العربة:"
+msgstr "سعر السلة:"
 
 #: includes/class-wc-order.php:903
 msgid "Cart Discount:"
@@ -6121,7 +6121,7 @@ msgstr "الشراء عبر PayPal"
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:479
 msgid "Cancel order &amp; restore cart"
-msgstr "ألغي الطلب وأفرغ العربة"
+msgstr "ألغي الطلب وأفرغ السلة"
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:534
 msgid ""
@@ -6321,7 +6321,7 @@ msgstr "لكل عنصر - تضاف لكل عنصر موجود في الطلب"
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:145
 #: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:98
 msgid "Per Class - charge shipping for each shipping class in an order"
-msgstr "لكل فئة - تضاف لكل فئة شحن موجودة في العربة"
+msgstr "لكل فئة - تضاف لكل فئة شحن موجودة في السلة"
 
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:152
 #: includes/shipping/international-delivery/class-wc-shipping-international-delivery.php:118
@@ -6495,7 +6495,7 @@ msgstr "سعر ثابت"
 
 #: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:115
 msgid "Percentage of cart total"
-msgstr "نسبة مئوية للعربة"
+msgstr "نسبة مئوية للسلة"
 
 #: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:116
 msgid "Fixed amount per product"
@@ -6660,7 +6660,7 @@ msgstr ""
 
 #: includes/wc-cart-functions.php:83
 msgid "Added &quot;%s&quot; to your cart."
-msgstr "تمت إضافة &quot;%s&quot; لعربتك."
+msgstr "تمت إضافة &quot;%s&quot; لسلتك."
 
 #: includes/wc-cart-functions.php:83
 msgid "&quot; and &quot;"
@@ -6840,11 +6840,11 @@ msgstr ""
 
 #: includes/wc-coupon-functions.php:22
 msgid "Cart Discount"
-msgstr "خصم العربة"
+msgstr "خصم السلة"
 
 #: includes/wc-coupon-functions.php:23
 msgid "Cart % Discount"
-msgstr "خصم مئوي للعربة"
+msgstr "خصم مئوي للسلة"
 
 #: includes/wc-coupon-functions.php:24
 msgid "Product Discount"
@@ -6974,15 +6974,15 @@ msgstr "غير مصنف"
 
 #: includes/widgets/class-wc-widget-cart.php:23
 msgid "Display the user's Cart in the sidebar."
-msgstr "عرض عربة الزبون في الشريط الجانبي"
+msgstr "عرض سلة الزبون في الشريط الجانبي"
 
 #: includes/widgets/class-wc-widget-cart.php:25
 msgid "WooCommerce Cart"
-msgstr "العربة لـ WooCommerce"
+msgstr "السلة لـ WooCommerce"
 
 #: includes/widgets/class-wc-widget-cart.php:35
 msgid "Hide if cart is empty"
-msgstr "أخفاء إذا كانت العربة فارغة"
+msgstr "أخفاء إذا كانت السلة فارغة"
 
 #: includes/widgets/class-wc-widget-layered-nav-filters.php:21
 msgid "Shows active layered nav filters so users can see and deactivate them."
@@ -7259,7 +7259,7 @@ msgstr "أفضل المنتجات تقيما"
 
 #: templates/cart/cart-empty.php:16
 msgid "Your cart is currently empty."
-msgstr "عربتك فارغة حاليا."
+msgstr "سلتك فارغة حاليا."
 
 #: templates/cart/cart-empty.php:20
 msgid "Return To Shop"
@@ -7300,11 +7300,11 @@ msgstr "الشحن"
 
 #: templates/cart/cart-totals.php:16
 msgid "Cart Totals"
-msgstr "سعر العربة"
+msgstr "سعر السلة"
 
 #: templates/cart/cart-totals.php:21 templates/checkout/review-order.php:25
 msgid "Cart Subtotal"
-msgstr "مجموع العربة"
+msgstr "مجموع السلة"
 
 #: templates/cart/cart-totals.php:27 templates/cart/cart-totals.php:67
 #: templates/checkout/review-order.php:31
@@ -7353,7 +7353,7 @@ msgstr "تطبيق القسيمة"
 
 #: templates/cart/cart.php:125
 msgid "Update Cart"
-msgstr "تحديث العربة"
+msgstr "تحديث السلة"
 
 #: templates/cart/cart.php:125
 msgid "Proceed to Checkout"
@@ -7365,7 +7365,7 @@ msgstr "قد يهمك أيضا&hellip;"
 
 #: templates/cart/mini-cart.php:51
 msgid "No products in the cart."
-msgstr "لا منتجات في العربة"
+msgstr "لا منتجات في السلة"
 
 #: templates/cart/mini-cart.php:59
 msgid "Subtotal"
@@ -7393,7 +7393,7 @@ msgstr "تحديث المجموع"
 msgid ""
 "There are some issues with the items in your cart (shown above). Please go "
 "back to the cart page and resolve these issues before checking out."
-msgstr "هناك بعض المشاكل في عربتك (التي في اﻷعلى). رجاء عد لصفحة العربة وحل هذه المشاكل قبل المحاسبة."
+msgstr "هناك بعض المشاكل في سلتك (التي في اﻷعلى). رجاء عد لصفحة السلة وحل هذه المشاكل قبل المحاسبة."
 
 #: templates/checkout/cart-errors.php:20
 msgid "Return To Cart"
