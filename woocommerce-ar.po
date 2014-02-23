@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: WooCommerce\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/woocommerce/issues\n"
 "POT-Creation-Date: 2014-02-12 13:22:09+00:00\n"
-"PO-Revision-Date: 2014-02-16 10:33-0000\n"
+"PO-Revision-Date: 2014-02-23 22:59-0000\n"
 "Last-Translator: Nabil Kadimi <nabil@kadimi.com>\n"
 "Language-Team: Arabic (http://www.transifex.com/projects/p/woocommerce-core/language/ar/)\n"
 "MIME-Version: 1.0\n"
@@ -5655,7 +5655,7 @@ msgstr ""
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:82
 msgid "Make your payment directly into our bank account. Please use your Order ID as the payment reference. Your order won't be shipped until the funds have cleared in our account."
-msgstr ""
+msgstr "أجر دفعك مباشرة إلى حسابنا المصرفي. استعمل رجاء معرف طلبك كمرجع للدفع. لن يتم شحن طلبك حتى يتحقق وصول المال إلى حسابنا."
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:86
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:72
@@ -5851,7 +5851,7 @@ msgstr ""
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:34
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:135
 msgid "PayPal"
-msgstr "PayPal"
+msgstr ""
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:98
 msgid "PayPal standard"
@@ -7350,7 +7350,7 @@ msgstr "تحديث المجموع"
 
 #: templates/checkout/review-order.php:168
 msgid "Place order"
-msgstr "تأكيد الطلب"
+msgstr "إجراء الطلب"
 
 #: templates/checkout/review-order.php:177
 msgid "I have read and accept the"
